@@ -1,0 +1,19 @@
+{
+  "name": "mountain-adventures",
+  "version": "1.0.0",
+  "description": "mountain adventures unit tests",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/saraho1123/mountain-adventures.git"
+  },
+  "author": "Sarah Osgood",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/saraho1123/mountain-adventures/issues"
+  },
+  "homepage": "https://github.com/saraho1123/mountain-adventures#readme"
+}
